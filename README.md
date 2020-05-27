@@ -1,2 +1,2 @@
 # python3
-a sample website with django
+This is a django project for creating a on-line shop.
